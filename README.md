@@ -6,9 +6,9 @@
 
 ## 🚀 Start Searching
 
-Klikni na tlačítko a přejdi na naši hlavní stránku:  
+Klikni na ikonu a přejdi na naši hlavní stránku:  
 
-[![Visit FutureSearch](futuresearch.netlify.app /favicon.png)](https://futuresearch.netlify.app)
+[![FutureSearch](https://futuresearch.netlify.app/favicon.png)](https://futuresearch.netlify.app)
 
 ---
 
