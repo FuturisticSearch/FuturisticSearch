@@ -1,4 +1,4 @@
-# 🌌 FutureSearch
+# <img src="https://futuresearch.netlify.app/favicon.png" alt="FutureSearch" width="32"> FutureSearch
 
 > 🔎 Explore the future of search. Find what matters, faster than ever.
 
