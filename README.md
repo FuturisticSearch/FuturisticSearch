@@ -8,7 +8,7 @@
 
 Klikni na tlačítko a přejdi na naši hlavní stránku:  
 
-[<img src="https://futuresearch.netlify.app/favicon.png" alt="FutureSearch" width="24"> Visit FutureSearch](https://futuresearch.netlify.app)
+[<img src="https://futuresearch.netlify.app/favicon.png" alt="FutureSearch" width="24"> **✨ Visit FutureSearch ✨**](https://futuresearch.netlify.app)
 
 ---
 
