@@ -8,7 +8,7 @@
 
 Klikni na tlačítko a přejdi na naši hlavní stránku:  
 
-[![Visit FutureSearch](https://img.shields.io/badge/Visit-FutureSearch-blue?style=for-the-badge&logo=google-chrome)](https://futuresearch.netlify.app)
+[![Visit FutureSearch](futuresearch.netlify.app /favicon.png)](https://futuresearch.netlify.app)
 
 ---
 
