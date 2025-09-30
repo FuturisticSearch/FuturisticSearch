@@ -1,16 +1,24 @@
-## Hi there 👋
+# 🌌 FutureSearch
 
-<!--
-**FuturisticSearch/FuturisticSearch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> 🔎 Explore the future of search. Find what matters, faster than ever.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Start Searching
+
+Klikni na tlačítko a přejdi na naši hlavní stránku:  
+
+[![Visit FutureSearch](https://img.shields.io/badge/Visit-FutureSearch-blue?style=for-the-badge&logo=google-chrome)](https://futuresearch.netlify.app)
+
+---
+
+## 🔍 About FutureSearch
+
+FutureSearch je moderní **search engine**, který kombinuje rychlost, inteligenci a přehlednost.  
+- Najdi informace okamžitě  
+- Objev nové trendy a technologie  
+- Přístup odkudkoliv přes web
+
+---
+
+🌐 Připoj se k nám a začni hledat: [FutureSearch](https://futuresearch.netlify.app)
